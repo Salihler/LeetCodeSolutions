@@ -13,3 +13,18 @@ C:\Users\eren.salihler\Desktop\projects\LeetCode\Solutions\obj\Debug\net6.0\refi
 C:\Users\eren.salihler\Desktop\projects\LeetCode\Solutions\obj\Debug\net6.0\Solutions.pdb
 C:\Users\eren.salihler\Desktop\projects\LeetCode\Solutions\obj\Debug\net6.0\Solutions.genruntimeconfig.cache
 C:\Users\eren.salihler\Desktop\projects\LeetCode\Solutions\obj\Debug\net6.0\ref\Solutions.dll
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\bin\Debug\net6.0\Solutions.exe
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\bin\Debug\net6.0\Solutions.deps.json
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\bin\Debug\net6.0\Solutions.runtimeconfig.json
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\bin\Debug\net6.0\Solutions.dll
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\bin\Debug\net6.0\Solutions.pdb
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\obj\Debug\net6.0\Solutions.csproj.AssemblyReference.cache
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\obj\Debug\net6.0\Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\obj\Debug\net6.0\Solutions.AssemblyInfoInputs.cache
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\obj\Debug\net6.0\Solutions.AssemblyInfo.cs
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\obj\Debug\net6.0\Solutions.csproj.CoreCompileInputs.cache
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\obj\Debug\net6.0\Solutions.dll
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\obj\Debug\net6.0\refint\Solutions.dll
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\obj\Debug\net6.0\Solutions.pdb
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\obj\Debug\net6.0\Solutions.genruntimeconfig.cache
+C:\Users\erensalihler\Desktop\Projects\.Net Core\LeetCodeSolutions\obj\Debug\net6.0\ref\Solutions.dll

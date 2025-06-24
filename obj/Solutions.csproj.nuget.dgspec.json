@@ -1,30 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eren.salihler\\Desktop\\projects\\LeetCode\\Solutions\\Solutions.csproj": {}
+    "C:\\Users\\erensalihler\\OneDrive - TİCİMAX BİLİŞİM TEKNOLOJİLERİ A.Ş\\Desktop\\Projects\\.Net Core\\LeetCodeSolutions\\Solutions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eren.salihler\\Desktop\\projects\\LeetCode\\Solutions\\Solutions.csproj": {
+    "C:\\Users\\erensalihler\\OneDrive - TİCİMAX BİLİŞİM TEKNOLOJİLERİ A.Ş\\Desktop\\Projects\\.Net Core\\LeetCodeSolutions\\Solutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eren.salihler\\Desktop\\projects\\LeetCode\\Solutions\\Solutions.csproj",
+        "projectUniqueName": "C:\\Users\\erensalihler\\OneDrive - TİCİMAX BİLİŞİM TEKNOLOJİLERİ A.Ş\\Desktop\\Projects\\.Net Core\\LeetCodeSolutions\\Solutions.csproj",
         "projectName": "Solutions",
-        "projectPath": "C:\\Users\\eren.salihler\\Desktop\\projects\\LeetCode\\Solutions\\Solutions.csproj",
-        "packagesPath": "C:\\Users\\eren.salihler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eren.salihler\\Desktop\\projects\\LeetCode\\Solutions\\obj\\",
+        "projectPath": "C:\\Users\\erensalihler\\OneDrive - TİCİMAX BİLİŞİM TEKNOLOJİLERİ A.Ş\\Desktop\\Projects\\.Net Core\\LeetCodeSolutions\\Solutions.csproj",
+        "packagesPath": "C:\\Users\\erensalihler\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erensalihler\\OneDrive - TİCİMAX BİLİŞİM TEKNOLOJİLERİ A.Ş\\Desktop\\Projects\\.Net Core\\LeetCodeSolutions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\eren.salihler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\erensalihler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.ticimax.biz/nuget/internal-nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -36,7 +40,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -47,7 +57,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -56,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
