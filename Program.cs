@@ -1,10 +1,11 @@
 ﻿
 DivideTwoIntegers sa = new DivideTwoIntegers();
 TwoSumClass twosum = new();
-int[] array = new[]{2,7,11,15};
+MergeStringsAlternately mergeStrings = new();
 
-foreach (var item in twosum.TwoSum(array, 9))
+var chunk = mergeStrings.MergeAlternately("eren", "salihler");
+foreach (var item in chunk)
 {
-    Console.WriteLine(item);
+Console.WriteLine(item);
+    
 }
-
